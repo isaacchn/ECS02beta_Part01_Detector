@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+#51
+*.lst
+*.obj
+*.bak
