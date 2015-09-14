@@ -32,8 +32,8 @@
 *.dSYM/
 
 #51
-*.lst
-*.obj
+*.LST
+*.OBJ
 *.bak
 *.hex
 *.lnp
