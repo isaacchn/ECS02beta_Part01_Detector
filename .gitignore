@@ -35,3 +35,8 @@
 *.lst
 *.obj
 *.bak
+*.hex
+*.lnp
+*.M51
+*.lnp
+*.plg
