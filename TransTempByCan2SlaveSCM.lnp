@@ -1,6 +1,0 @@
-"ds18b20.obj",
-"MCP2515.obj",
-"Main.obj",
-"DHT11.obj" 
-TO "TransTempByCan2SlaveSCM" 
-RAMSIZE(256) 
